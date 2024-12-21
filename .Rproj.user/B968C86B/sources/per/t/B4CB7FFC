@@ -1,0 +1,26 @@
+{
+    "id": "B4CB7FFC",
+    "path": "~/Desktop/Fall 2024/Stat 385/Life_Expectancy_Zhuoang2/R/filter_data.R",
+    "project_path": "R/filter_data.R",
+    "type": "r_source",
+    "hash": "2040133513",
+    "contents": "",
+    "dirty": false,
+    "created": 1734653828107.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1734659061,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1734659061328,
+    "read_only": false,
+    "read_only_alternatives": []
+}
